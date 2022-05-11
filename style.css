@@ -1,8 +1,8 @@
 
     header{
-background-color:green;
-width:100%;
-height:200px;}
+width:50%;
+height:670px;
+background-image:url("football.PNG")}
 
 
    .left{
@@ -24,7 +24,6 @@ font-family:Arial;}
 
 
     .mid{
-background-color:brown;
 padding:366px;}
 
 
